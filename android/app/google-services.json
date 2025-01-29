@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "262813453087",
+    "project_id": "soil360-159ff",
+    "storage_bucket": "soil360-159ff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262813453087:android:a70a656784e8c476e6be2a",
+        "android_client_info": {
+          "package_name": "com.example.soil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASVb7qKcqhCdkOAVhTCUrtS0HXIyx7avE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
